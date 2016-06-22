@@ -7,6 +7,7 @@
         * [한글버전](https://goo.gl/2Fx1xY)
         * 참고) 영어/한글 버전이 내용이 서로 다릅니다.
  * [장고걸스 튜토리얼 따라하기 동영상](https://www.facebook.com/askdjango/videos/627554657407592/)
+ * [장고걸스 튜토리얼, Azure WebApp 배포 동영상 (한글버전)](https://www.facebook.com/askdjango/videos/634463410050050/)
 
 
 ## 리소스
